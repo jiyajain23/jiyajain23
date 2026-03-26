@@ -3,10 +3,10 @@
 I am a passionate developer focused on **Machine Learning**,and **Data Structures & Algorithms**. I enjoy building intelligent systems and solving complex problems through code.
 
 ### 🛠️ Technical Toolkit
-- [cite_start]**Languages:** C++, Python, JavaScript, SQL[cite: 9, 10].
-- [cite_start]**ML & Data Science:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, NLTK[cite: 11].
-- [cite_start]**Web Tech:** HTML/CSS, Node.js, Express.js, MongoDB[cite: 12, 13].
-- [cite_start]**CS Fundamentals:** Data Structures & Algorithms, OOPs[cite: 10].
+- **Languages:** C++, Python, JavaScript.
+- **ML & Data Science:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, NLTK, Matplotlib.
+- **Web Tech:** HTML/CSS, Node.js, Express.js, MongoDB.
+- **CS Fundamentals:** Data Structures & Algorithms, OOPs.
 
 ### 🚀 Featured Projects
 * **[Product Classifier](https://github.com/jiyajain23/product_classifier):** Product Classification from images using OpenCV and transfer learning(MobileNetV2) with more than 110K+ images with 42 categories.
