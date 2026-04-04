@@ -49,7 +49,7 @@ LinkedIn CoachIn ’26 | Mentee @Codess.cafe | DSA | Machine Learning | C++ | Py
 Consistency > Intensity
 ```
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiyajain23&theme=tokyonight&ring=79ffad)](https://git.io/streak-stats)
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api/github-stats-graph?username=jiyajain23&theme=tokyonight)
+![Jiya's GitHub stats](https://github-readme-stats.vercel.app/api/github-stats-graph?username=jiyajain23&theme=tokyonight)
 ---
 
 ## 🎶 Connect With Me
