@@ -56,12 +56,3 @@ Consistency > Intensity
 
 * [jainjiya2312@gmail.com](mailto:jainjiya2312@gmail.com)
 * [LinkedIn](https://linkedin.com/in/jiyajain23)
-
----
-```python
-while(True):
-    learn()
-    build()
-    improve()
-```\
-
