@@ -6,9 +6,8 @@ LinkedIn CoachIn ’26 | Mentee @Codess.cafe | DSA | Machine Learning | C++ | Py
 + Building intelligent systems, one model at a time.
 ```
 ---
-
+[check out my portfolio here](https://jiya-portfolio-gilt.vercel.app/)
 ## 🦩 About Me
-
 *  B.Tech CSE @ MSIT (GGSIPU) — **CGPA: 9.22**
 *  Learning **Machine Learning, & AI**
 *  Love implementing algorithms
