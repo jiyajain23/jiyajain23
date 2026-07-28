@@ -39,11 +39,9 @@ LinkedIn CoachIn ’26 | Mentee @Codess.cafe | DSA | Machine Learning | C++ | Py
 ### 🔮 Featured Repos
 * **[Product Classifier](https://github.com/jiyajain23/product_classifier):** Product Classification from images using OpenCV and transfer learning(MobileNetV2) with more than 110K+ images with 42 categories.
 * **[Helpful Review Prediction](https://github.com/jiyajain23/helpful_review_prediction):** NLP project focusing on Amazon food reviews using Logistic Regression and Random Forest.
-* **[SpeakEz](https://github.com/jiyajain23/speakEz-JJ):** Context-aware AI coach simulator for professional communication practice.
+* **[SpeakEz](https://github.com/jiyajain23/speakEz-JJ):** Context-aware AI coach simulator for professional communication practice using gemini live api, mediapipe and librosa for scoring.
 * **[DSA Master](https://github.com/jiyajain23/dsa):** Implementation of core algorithms and data structures in C++.
-* **[TrustProof](https://github.com/jiyajain23/trustproof):** A JavaScript-based project for verification/security concepts.
-
-
+* **[Rag agent](https://github.com/jiyajain23/rag-agent-aai):** A retrieval-augmented generation (RAG) chatbot that answers questions over pdfs(digital text+ OCR) using hybrid retriever (BM25+ vector search) and rescores using a reranker orchestrated with langchain.
 
 ```bash
 Consistency > Intensity
