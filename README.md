@@ -101,10 +101,6 @@ Researched adversarial testing for **Bayora**, an automated red-teaming platform
 ---
 
 <p align="center">
-  <i>Certified by DeepLearning.AI (Supervised Learning, Advanced Learning Algorithms, Maths for ML) and IBM (AI Agents with RAG &amp; LangChain) — but mostly certified by the number of times I've re-run a training loop at 2am.</i>
-</p>
-
-<p align="center">
   <sub>If you've scrolled this far, you might as well <a href="mailto:jainjiya2312@gmail.com">say hi</a>.</sub>
 </p>
 
