@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jiya-portfolio-gilt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://jiyabuilds.xyz"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:jainjiya2312@gmail.com"><img src="https://img.shields.io/badge/Mail-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/jiyajain23/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
@@ -78,9 +78,9 @@ class Jiya:
 
 | Project                                                   | What it is                                                          | Stack                                                                                      | Highlight                                                                                                                                                                        |
 | --------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Aviation Safety RAG Assistant](TODO_REPO_URL)**        | Hybrid-retrieval assistant over AAI's ATS manual and ATMC circulars | Python · LangChain · Llama 3.1 · ChromaDB · Cross-Encoder · Streamlit                      | BM25 + vector + cross-encoder reranking across **670+ pages**, with PyMuPDF/RapidOCR ingestion for scanned legacy PDFs and a Pytest regression suite guarding retrieval accuracy |
-| **[SpeakEZ](TODO_REPO_URL)**                              | Real-time AI coaching platform simulating workplace conversations   | FastAPI · Node.js · Gemini Live API · PyTorch · sentence-transformers · MediaPipe · Prisma | Low-latency voice loop plus a multi-modal scoring pipeline — embeddings, speech fluency, acoustic confidence and live MediaPipe nudges — feeding personalized insights           |
-| **[Marketplace Product Image Classifier](TODO_REPO_URL)** | Large-scale product image categorization                            | Python · TensorFlow · MobileNetV2                                                          | **110,000+ images across 42 classes (10GB)**, transfer learning to 72.4% accuracy with imbalance handling that added 5% validation accuracy                                      |
+| **[Aviation Safety RAG Assistant](https://github.com/jiyajain23/rag-agent-atmc)**        | Hybrid-retrieval assistant over AAI's ATS manual and ATMC circulars | Python · LangChain · Llama 3.1 · ChromaDB · Cross-Encoder · Streamlit                      | BM25 + vector + cross-encoder reranking across **670+ pages**, with PyMuPDF/RapidOCR ingestion for scanned legacy PDFs and a Pytest regression suite guarding retrieval accuracy |
+| **[saylo](https://github.com/jiyajain23/saylo)**                              |Real-time multimodal speech coaching, adaptive AI practice sessions, and deep LangGraph performance analytics.  | FastAPI · Node.js · Gemini Live API · PyTorch · sentence-transformers · MediaPipe · LangGraph | Low-latency voice loop plus live MediaPipe nudges — feeding personalized insights           |
+| **[Marketplace Product Image Classifier](https://github.com/jiyajain23/product_classifier)** | Large-scale product image categorization                            | Python · TensorFlow · MobileNetV2                                                          | **110,000+ images across 42 classes (10GB)**, transfer learning to 72.4% accuracy with imbalance handling that added 5% validation accuracy                                      |
 
 ---
 
